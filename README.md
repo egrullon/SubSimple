@@ -13,7 +13,7 @@ This is free software and you are free to change and redistribute it.
 A simple subdomains of websites enumeration tool.
 
 # Install:
-You can install cloning this Git Repository
+You can install cloning this Git Repository:
 $ git clone https://github.com/egrullon/subsimple.git
 
 # Usage:
